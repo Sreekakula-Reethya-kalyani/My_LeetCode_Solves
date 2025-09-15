@@ -14,7 +14,8 @@ I strive to implement optimal algorithms for each problem, focusing on:
 
 ## Languages Used
 
-- **Java** (Primary language)
+- **Java**
+- **Python**
 - Solutions are written with best practices in mind and aim to be as efficient as possible.
 
 ## Repository Structure
